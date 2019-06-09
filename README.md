@@ -10,8 +10,9 @@
 
 # Table of Contents
 
+## Planning
 
-## Organizing Ideas and Work
+### Organizing Ideas and Work
 
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
@@ -20,7 +21,10 @@ Name | Pricing | Limits | Summary |
 [Onenote](https://www.onenote.com) | Free | Up to 5 GB | Microsoft's notekeeping app, part of Office
 [Evernote](https://evernote.com) | Free | Unlimited notes, no team features | Notekeeping app with organization features
 
-## Code Repos
+
+## Building
+
+### Code Repos
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
 [Azure Repos](https://azure.microsoft.com/en-us/services/devops/repos) | Free | Unlimited public and private repos, up to 5 developers | A Git repo that comes as part of Azure Devops
@@ -28,3 +32,36 @@ Name | Pricing | Limits | Summary |
 [Bitbucket](https://bitbucket.org/) | Free | Unlimited private repos, up to 5 developers | A Git repo that is part of the Atlassian suite
 [Gitlab](https://about.gitlab.com/) | Free | Unlimited private repos and developers, no merge approvals | A private Git repo that comes with integrated issue tracking and chatops
 
+### Databases
+
+### SaaS
+
+### Graphics and UX
+
+### Documentation
+
+### Frameworks
+
+### Metrics and Logging
+
+
+## Hosting
+
+### VM's
+
+### PaaS
+
+### CI / CD
+
+
+## Scaling up
+
+### Marketing
+
+### Invoicing and Subscriptions
+
+### Team Chat
+
+### Support
+
+## Legal Compliance
