@@ -62,7 +62,9 @@ Name | Pricing | Limits | Summary |
 [Azure App Service (Basic)](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/) | $0.075 / hr | 1.75GB RAM, 10GB Storage | Host your site / service straight out of Visual Studio on a scalable infrastructure
 
 ### FaaS
-
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Azure Functions](https://azure.microsoft.com/en-us/pricing/details/functions/) | Free | 1 million executions, 400,000 GB-s | Azure hosted functions that spin up on the fly based on http / timer / queue messages
 
 ### CI / CD
 
