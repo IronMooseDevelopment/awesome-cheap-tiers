@@ -51,7 +51,8 @@ Name | Pricing | Limits | Summary |
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
 [Digital Ocean](https://www.digitalocean.com) | $5 / month | 1GB Ram, 25GB SSD | Developer-focused VM provider with easy DNS setup and one-click-deploy options
-[Azure Linux VM's](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/) | $0.0075 / hr | 1GB Ram | Azure [Azure Windows VM's](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/) | $0.008 / hr | 1GB Ram | Azure VM that can temporarily burst to handle higher loads
+[Azure Linux VM's](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/) | $0.0075 / hr | 1GB Ram | Azure VM that can temporarily burst to handle higher loads
+[Azure Windows VM's](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/) | $0.008 / hr | 1GB Ram | Azure VM that can temporarily burst to handle higher loads
 
 ### PaaS
 
