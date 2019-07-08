@@ -47,14 +47,22 @@ Name | Pricing | Limits | Summary |
 
 ## Hosting
 
-### VMs
+### IaaS
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
-[Digital Ocean](https://www.digitalocean.com) | $5 / month | 1GB Ram, 25GB SSD | Developer-focused VM provider with easy DNS setup and one-click-deploy options
-[Azure Linux VMs](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/) | $0.0075 / hr | 1GB Ram | Azure VM that can temporarily burst to handle higher loads
-[Azure Windows VMs](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/) | $0.008 / hr | 1GB Ram | Azure VM that can temporarily burst to handle higher loads
+[Digital Ocean](https://www.digitalocean.com) | $5 / month | 1GB RAM, 25GB SSD | Developer-focused VM provider with easy DNS setup and one-click-deploy options
+[Azure Linux VMs](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/) | $0.0075 / hr | 1GB RAM | Azure VM that can temporarily burst to handle higher loads
+[Azure Windows VMs](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/) | $0.008 / hr | 1GB RAM | Azure VM that can temporarily burst to handle higher loads
 
 ### PaaS
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Azure App Service (Free)](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/) | Free | 1GB RAM, 1GB Storage, 60 minutes / day | Host your site / service straight out of Visual Studio for free on shared infrastructure
+[Azure App Service (Shared)](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/) | $0.013 / hr | 1GB RAM, 1GB Storage, 240 minutes / day | Host your site / service straight out of Visual Studio for cheap on shared infrastructure
+[Azure App Service (Basic)](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/) | $0.075 / hr | 1.75GB RAM, 10GB Storage | Host your site / service straight out of Visual Studio on a scalable infrastructure
+
+### FaaS
+
 
 ### CI / CD
 
