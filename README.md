@@ -70,6 +70,7 @@ Name | Pricing | Limits | Summary |
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
 [Azure Functions](https://azure.microsoft.com/en-us/pricing/details/functions/) | Free | 1 million executions, 400,000 GB-s | Azure hosted functions that spin up on the fly based on http / timer / queue messages
+[Iron Functions](https://github.com/iron-io/functions) | Free, Self-Hosted | None | A Docker image that manages running FaaS on your own infrastructure. Supports directly importing AWS Lambdas
 
 ## Scaling up
 
