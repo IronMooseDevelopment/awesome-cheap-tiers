@@ -44,6 +44,11 @@ Name | Pricing | Limits | Summary |
 
 ### Metrics and Logging
 
+### CI / CD
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Azure Pipelines](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/) | Free | 1 Hosted agent (1800 build minutes / month), 1 Self-Hosted agent | A CI / CD chain that comes as part of Azure Devops
+[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) | Free | 50 build minutes / month | Docker-based CI / CD by Atlassian
 
 ## Hosting
 
@@ -65,9 +70,6 @@ Name | Pricing | Limits | Summary |
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
 [Azure Functions](https://azure.microsoft.com/en-us/pricing/details/functions/) | Free | 1 million executions, 400,000 GB-s | Azure hosted functions that spin up on the fly based on http / timer / queue messages
-
-### CI / CD
-
 
 ## Scaling up
 
