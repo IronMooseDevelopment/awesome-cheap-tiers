@@ -72,6 +72,12 @@ Name | Pricing | Limits | Summary |
 [Azure Functions](https://azure.microsoft.com/en-us/pricing/details/functions/) | Free | 1 million executions, 400,000 GB-s | Azure hosted functions that spin up on the fly based on http / timer / queue messages
 [Iron Functions](https://github.com/iron-io/functions) | Free, Self-Hosted | None | A Docker image that manages running FaaS on your own infrastructure. Supports directly importing AWS Lambdas
 
+## Static Sites
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Netlify](https://www.netlify.com/) | Free | 1 User, 1 Concurrent Build| A popular globablly-distributed static site host that has built-in CI / CD
+[Github Pages](https://pages.github.com/) | Free | 1 per Account / Org, 1 per Project, Non-Commercial | A Github hosted static site solution - just push and host. Great for project readmes
+[Azure Storage Static Site](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website) | Free except Azure Storage Pricing | Blob stored Azure distributed static site hosting
 ## Scaling up
 
 ### Marketing
