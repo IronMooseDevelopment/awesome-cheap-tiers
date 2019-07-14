@@ -37,6 +37,10 @@ Name | Pricing | Limits | Summary |
 ### SaaS
 
 ### Graphics and UX
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Fiverr](https://www.fiverr.com/) | $5 and up / design | An online marketplace of freelancers providing various services such as graphical and ux design. Most freelancers offer a $5 tier, hence the name "Fiverr"
+[Figma](https://www.figma.com/) | Free | 2 members, 3 projects, 30 days version history | A browser-based UX tool with easy collaboration and code-exporting for styles
 
 ### Documentation
 
