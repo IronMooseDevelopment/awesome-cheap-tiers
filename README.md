@@ -20,7 +20,7 @@ Name | Pricing | Limits | Summary |
 [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards) | Free | Up to 5 Developers, unlimited Stakeholders | A scrum / kanban board that comes as part of Azure Devops
 [Onenote](https://www.onenote.com) | Free | Up to 5 GB | Microsoft's notekeeping app, part of Office
 [Evernote](https://evernote.com) | Free | Unlimited notes, no team features | Notekeeping app with organization features
-[Github Project Boards](https://help.github.com/en/articles/about-project-boards) | Free | Kanban-style cross-repo board hosted by Github and included with every Github repo
+[Github Project Boards](https://help.github.com/en/articles/about-project-boards) | Free | No Limits | Kanban-style cross-repo board hosted by Github and included with every Github repo
 
 ### Team Chat
 Name | Pricing | Limits | Summary | 
@@ -58,10 +58,10 @@ Name | Pricing | Limits | Summary |
 ### Documentation
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
-[Github Wikis](https://help.github.com/en/articles/about-wikis) | Free | Markdown wiki hosted by Github and included with every Github repo
+[Github Wikis](https://help.github.com/en/articles/about-wikis) | Free | No Limits | Markdown wiki hosted by Github and included with every Github repo
 [Read the Docs](https://readthedocs.org/) | Free | Open Source projects only, no private documentation, ad supported | Automatic CI/CD for documentation hosted for free by Read the Docs
 [GitBook](https://www.gitbook.com/) | Free | 2 Users, 1 Public space, 1 Private space | Git-enabled documentation editor that makes it easy for non-developers to contribute
-[Azure Functions OpenAPI / Swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition) | Free except Azure Functions pricing | Serverless hosting of API endpoint documentation using the popular OpenAPI / Swagger format
+[Azure Functions OpenAPI / Swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition) | Free except Azure Functions pricing | No Limits | Serverless hosting of API endpoint documentation using the popular OpenAPI / Swagger format
 
 ### Frameworks
 
@@ -100,7 +100,7 @@ Name | Pricing | Limits | Summary |
 ------------ | ------------- | ------------- | -------------
 [Netlify](https://www.netlify.com/) | Free | 1 User, 1 Concurrent Build| A popular globablly-distributed static site host that has built-in CI / CD
 [Github Pages](https://pages.github.com/) | Free | 1 per Account / Org, 1 per Project, Non-Commercial | A Github hosted static site solution - just push and host. Great for project readmes
-[Azure Storage Static Site](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website) | Free except Azure Storage Pricing | Blob stored Azure distributed static site hosting
+[Azure Storage Static Site](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website) | Free except Azure Storage Pricing | No Limits | Blob stored Azure distributed static site hosting
 ## Scaling up
 
 ### Marketing
