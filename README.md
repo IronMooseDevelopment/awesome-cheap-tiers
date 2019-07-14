@@ -10,6 +10,7 @@
 
 # Table of Contents
 
+
 ## Planning
 
 ### Organizing Ideas and Work
@@ -28,6 +29,7 @@ Name | Pricing | Limits | Summary |
 [Slack](https://slack.com) | Free | 10k Message history, 10 apps, no group calls | An extremely popular IM platform with a large collection of bots and apps that help customize your chat to your workflow 
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams) | Free | 300 Users, 2GB storage / user, no 2FA | Microsoft's IM offering with tight Office integration and a growing app marketplace
 [Discord](https://discordapp.com) | Free | 8MB File Upload, 720p screen share | An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or messagee history. Development / Work focused apps are lacking but are slowly being added
+
 
 ## Building
 
@@ -66,6 +68,13 @@ Name | Pricing | Limits | Summary |
 ### Frameworks
 
 ### Metrics and Logging
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Azure Application Insights](https://azure.microsoft.com/en-us/pricing/details/monitor/) | Free | 5GB storage / month, 90 days retention | An end-to-end sampled view of user interactions that can be installed in one-click for most Azure resources
+[Azure Metrics](https://azure.microsoft.com/en-us/pricing/details/monitor/) | Free | 150 MB / month | Helps capture the exact number of times a certain thing occured in your app / API
+[Papertrail](https://papertrailapp.com) | Free | 50MB / month, 7 days retention | Solarwinds provided aggregated tail logs with automatic filters for non-structured logs
+[Loggly](https://www.loggly.com) | Free | 200MB / day, 7 days retention, no alerts | Solarwinds provided aggregated structured logs with filters
+[Logz](https://logz.io) | Free | 3GB / day, 3 days retention, 50 users, no alerts | A hosted ELK stack with Grafana with filters for structured logs
 
 ### CI / CD
 Name | Pricing | Limits | Summary | 
@@ -101,6 +110,8 @@ Name | Pricing | Limits | Summary |
 [Netlify](https://www.netlify.com/) | Free | 1 User, 1 Concurrent Build| A popular globablly-distributed static site host that has built-in CI / CD
 [Github Pages](https://pages.github.com/) | Free | 1 per Account / Org, 1 per Project, Non-Commercial | A Github hosted static site solution - just push and host. Great for project readmes
 [Azure Storage Static Site](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website) | Free except Azure Storage Pricing | No Limits | Blob stored Azure distributed static site hosting
+
+
 ## Scaling up
 
 ### Marketing
@@ -108,5 +119,6 @@ Name | Pricing | Limits | Summary |
 ### Invoicing and Subscriptions
 
 ### Support
+
 
 ## Legal Compliance
