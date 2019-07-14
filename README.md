@@ -20,7 +20,9 @@ Name | Pricing | Limits | Summary |
 [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards) | Free | Up to 5 Developers, unlimited Stakeholders | A scrum / kanban board that comes as part of Azure Devops
 [Onenote](https://www.onenote.com) | Free | Up to 5 GB | Microsoft's notekeeping app, part of Office
 [Evernote](https://evernote.com) | Free | Unlimited notes, no team features | Notekeeping app with organization features
+[Github Project Boards](https://help.github.com/en/articles/about-project-boards) | Free | Kanban-style cross-repo board hosted by Github and included with every Github repo
 
+### Team Chat
 
 ## Building
 
@@ -49,6 +51,12 @@ Name | Pricing | Limits | Summary |
 [Figma](https://www.figma.com/) | Free | 2 members, 3 projects, 30 days version history | A browser-based UX tool with easy collaboration and code-exporting for styles
 
 ### Documentation
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Github Wikis](https://help.github.com/en/articles/about-wikis) | Free | Markdown wiki hosted by Github and included with every Github repo
+[Read the Docs](https://readthedocs.org/) | Free | Open Source projects only, no private documentation, ad supported | Automatic CI/CD for documentation hosted for free by Read the Docs
+[GitBook](https://www.gitbook.com/) | Free | 2 Users, 1 Public space, 1 Private space | Git-enabled documentation editor that makes it easy for non-developers to contribute
+[Azure Functions OpenAPI / Swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition) | Free except Azure Functions pricing | Serverless hosting of API endpoint documentation using the popular OpenAPI / Swagger format
 
 ### Frameworks
 
@@ -93,8 +101,6 @@ Name | Pricing | Limits | Summary |
 ### Marketing
 
 ### Invoicing and Subscriptions
-
-### Team Chat
 
 ### Support
 
