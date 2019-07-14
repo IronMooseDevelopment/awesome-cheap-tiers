@@ -41,6 +41,8 @@ Name | Pricing | Limits | Summary |
 [Bitbucket](https://bitbucket.org/) | Free | Unlimited private repos, up to 5 developers | A Git repo that is part of the Atlassian suite
 [Gitlab](https://about.gitlab.com/) | Free | Unlimited private repos and developers, no merge approvals | A private Git repo that comes with integrated issue tracking and chatops
 
+### Authentication
+
 ### Databases
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
@@ -48,6 +50,8 @@ Name | Pricing | Limits | Summary |
 [Azure Blob Storage](https://azure.microsoft.com/en-us/pricing/details/storage/blobs/) | $0.0184 / GB / Month, various read / write prices | Prices increase after 50 TB / month | A No-SQL database that scales automatically and stores your data globally. Has various automatic-archive options. Cheaper to store in, more expensive to read / write.
 [Azure Serverless SQL](https://azure.microsoft.com/en-us/pricing/details/sql-database/single/) | $0.2609 / core / hr | 4 cores, 12GB RAM | A fully-featured SQL database that auto-scales in response to demand and only charges you for your use
 [mLab](https://mlab.com) | Free | 0.5GB storage | A sandbox instance of MongoDB hosted and supported by MongoDB Inc
+
+### Email
 
 ### SaaS
 
@@ -114,9 +118,15 @@ Name | Pricing | Limits | Summary |
 
 ## Scaling up
 
+### Status Pages
+
 ### Marketing
 
 ### Invoicing and Subscriptions
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Invoicely](https://invoicely.com) | Free | 1 User, PayPal only, no Recurring | Estimate and Invoicing tool designed for the web, hosted by ApiLayer
+[Chargebee](https://www.chargebee.com) | Free | First USD $50k revenue | Subscriptions-as-a-service offering that allows users to manage their credit cards and subscriptions in a hosted page. Has coupon and free-trial features built-in.
 
 ### Support
 
@@ -125,3 +135,4 @@ Name | Pricing | Limits | Summary |
 ------------ | ------------- | ------------- | -------------
 [Termly](https://app.termly.io) | Free | 1 Policy | Automatic generator and hoster of Terms of Conditions and Privacy Policy documents
 [Cookie Consent](https://cookieconsent.osano.com/) | Free | No Limits | Open source Cookie Consent banners provided by Osano
+[Eversign](https://eversign.com) | Free | 5 documents / month, 1 user | Legally-binding eSignature platform with Google Drive template importing features hosted by ApiLayer
