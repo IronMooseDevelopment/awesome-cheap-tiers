@@ -120,5 +120,8 @@ Name | Pricing | Limits | Summary |
 
 ### Support
 
-
-## Legal Compliance
+### Legal Compliance
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Termly](https://app.termly.io) | Free | 1 Policy | Automatic generator and hoster of Terms of Conditions and Privacy Policy documents
+[Cookie Consent](https://cookieconsent.osano.com/) | Free | No Limits | Open source Cookie Consent banners provided by Osano
