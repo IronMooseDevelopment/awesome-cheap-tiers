@@ -23,6 +23,9 @@ Name | Pricing | Limits | Summary |
 [Github Project Boards](https://help.github.com/en/articles/about-project-boards) | Free | Kanban-style cross-repo board hosted by Github and included with every Github repo
 
 ### Team Chat
+[Slack](https://slack.com) | Free | 10k Message history, 10 apps, no group calls | An extremely popular IM platform with a large collection of bots and apps that help customize your chat to your workflow 
+[Microsoft Teams](https://products.office.com/en-us/microsoft-teams) | Free | 300 Users, 2GB storage / user, no 2FA | Microsoft's IM offering with tight Office integration and a growing app marketplace
+[Discord](https://discordapp.com) | Free | 8MB File Upload, 720p screen share | An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or messagee history. Development / Work focused apps are lacking but are slowly being added
 
 ## Building
 
@@ -47,7 +50,7 @@ Name | Pricing | Limits | Summary |
 ### Graphics and UX
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
-[Fiverr](https://www.fiverr.com/) | $5 and up / design | An online marketplace of freelancers providing various services such as graphical and ux design. Most freelancers offer a $5 tier, hence the name "Fiverr"
+[Fiverr](https://www.fiverr.com/) | $5 and up / design | No Limits | An online marketplace of freelancers providing various services such as graphical and ux design. Most freelancers offer a $5 tier, hence the name "Fiverr"
 [Figma](https://www.figma.com/) | Free | 2 members, 3 projects, 30 days version history | A browser-based UX tool with easy collaboration and code-exporting for styles
 
 ### Documentation
