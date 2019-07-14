@@ -42,6 +42,9 @@ Name | Pricing | Limits | Summary |
 [Gitlab](https://about.gitlab.com/) | Free | Unlimited private repos and developers, no merge approvals | A private Git repo that comes with integrated issue tracking and chatops
 
 ### Authentication
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Auth0](https://auth0.com) | Free | 7000 active users, 2 social providers | Wraps OAuth options into one management layer for easy integration. Supports most social and enterprise OAuth providers, manages username-password logins for you, and allows customization with serverless rules
 
 ### Databases
 Name | Pricing | Limits | Summary | 
