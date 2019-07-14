@@ -33,6 +33,12 @@ Name | Pricing | Limits | Summary |
 [Gitlab](https://about.gitlab.com/) | Free | Unlimited private repos and developers, no merge approvals | A private Git repo that comes with integrated issue tracking and chatops
 
 ### Databases
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Azure Table Storage](https://azure.microsoft.com/en-us/pricing/details/storage/tables/) | $0.045 / GB / Month, $0.00036 per 10,000 transactions | No limits | A Key-Value database that scales automatically and stores your data globally
+[Azure Blob Storage](https://azure.microsoft.com/en-us/pricing/details/storage/blobs/) | $0.0184 / GB / Month, various read / write prices | Prices increase after 50 TB / month | A No-SQL database that scales automatically and stores your data globally. Has various automatic-archive options. Cheaper to store in, more expensive to read / write.
+[Azure Serverless SQL](https://azure.microsoft.com/en-us/pricing/details/sql-database/single/) | $0.2609 / core / hr | 4 cores, 12GB RAM | A fully-featured SQL database that auto-scales in response to demand and only charges you for your use
+[mLab](https://mlab.com) | Free | 0.5GB storage | A sandbox instance of MongoDB hosted and supported by MongoDB Inc
 
 ### SaaS
 
