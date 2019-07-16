@@ -30,7 +30,6 @@ Name | Pricing | Limits | Summary |
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams) | Free | 300 Users, 2GB storage / user, no 2FA | Microsoft's IM offering with tight Office integration and a growing app marketplace
 [Discord](https://discordapp.com) | Free | 8MB File Upload, 720p screen share | An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or messagee history. Development / Work focused apps are lacking but are slowly being added
 
-
 ## Building
 
 ### Code Repos
@@ -55,6 +54,10 @@ Name | Pricing | Limits | Summary |
 [mLab](https://mlab.com) | Free | 0.5GB storage | A sandbox instance of MongoDB hosted and supported by MongoDB Inc
 
 ### Email
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Sendgrid](https://sendgrid.com) | Free | 100 / day | Transactional email API with good library support and a matching Marketing email offering
+[Mailgun](https://www.mailgun.com/) | Free | 10k emails / month, 100 email address validation / month | Transactional email API with an email validation sister API
 
 ### SaaS
 
