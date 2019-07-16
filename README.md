@@ -122,6 +122,10 @@ Name | Pricing | Limits | Summary |
 ## Scaling up
 
 ### Status Pages
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Freshstatus](https://www.freshworks.com/statuspage) | Free | Up to 250 subscribers, no scheduled reports | Status page provided as an offering from the Freshworks suite
+[Cachet](https://github.com/CachetHQ/Cachet) | Self-Host | No Limits | Open source Status page with multi-language and planned downtime features
 
 ### Marketing
 
