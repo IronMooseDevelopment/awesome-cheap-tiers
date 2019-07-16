@@ -131,6 +131,11 @@ Name | Pricing | Limits | Summary |
 [Cachet](https://github.com/CachetHQ/Cachet) | Self-Host | No Limits | Open source Status page with multi-language and planned downtime features
 
 ### Marketing
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Sendgrid](https://sendgrid.com) | Free | 2k contacts, 6k emails / month, 1 user | Marketing email platform with email designer and analytics, with a matching Transactional email offering
+[Mailchimp](https://mailchimp.com) | Free | 7 channels, basic templates, 2k contacts | Marketing email platform with easy email designer, 1 click automations, and landing page creator
+
 
 ### Invoicing and Subscriptions
 Name | Pricing | Limits | Summary | 
