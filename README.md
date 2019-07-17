@@ -135,7 +135,13 @@ Name | Pricing | Limits | Summary |
 ------------ | ------------- | ------------- | -------------
 [Sendgrid](https://sendgrid.com) | Free | 2k contacts, 6k emails / month, 1 user | Marketing email platform with email designer and analytics, with a matching Transactional email offering
 [Mailchimp](https://mailchimp.com) | Free | 7 channels, basic templates, 2k contacts | Marketing email platform with easy email designer, 1 click automations, and landing page creator
+[Ghost](https://ghost.org/) | Self Host | No Limits | A popular open source publishing platform for blogs and journals
+[Landbot](https://landbot.io/) | Free | 100 chats / month, 30 logic blocks, basic integrations | A chatbot bot driven landing page that directs users through to what they want to know
 
+### Finances
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Waveapps](https://www.waveapps.com) | Free for accounting / invoicing / receipts, $20 / month + $4 / person for payroll | No Limits | Invoicing software with a payroll option for both employees and contractors
 
 ### Invoicing and Subscriptions
 Name | Pricing | Limits | Summary | 
@@ -144,6 +150,7 @@ Name | Pricing | Limits | Summary |
 [Chargebee](https://www.chargebee.com) | Free | First USD $50k revenue | Subscriptions-as-a-service offering that allows users to manage their credit cards and subscriptions in a hosted page. Has coupon and free-trial features built-in.
 
 ### Support
+[Purechat](https://purechat.com) | Free | Unlimited chat, 3 Users, 1 website | Livechat support chatbot that falls back to email if no one is online to answer a question
 
 ### Legal Compliance
 Name | Pricing | Limits | Summary | 
