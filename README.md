@@ -40,6 +40,13 @@ Name | Pricing | Limits | Summary |
 [Bitbucket](https://bitbucket.org/) | Free | Unlimited private repos, up to 5 developers | A Git repo that is part of the Atlassian suite
 [Gitlab](https://about.gitlab.com/) | Free | Unlimited private repos and developers, no merge approvals | A private Git repo that comes with integrated issue tracking and chatops
 
+### Frameworks
+Name | | Summary | 
+------------ | -------------
+[Xamarin](https://visualstudio.microsoft.com/xamarin/) | Open source C# framework for apps that compiles to native Android, iOS, Mac, and UWP with maximal codesharing
+[Blazor](https://github.com/aspnet/Blazor) | Open source C# framework for websites that compiles to webassembly
+[Bootstrap](https://getbootstrap.com/) | Open source mobile-first web UI framework
+
 ### Authentication
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
@@ -59,8 +66,6 @@ Name | Pricing | Limits | Summary |
 [Sendgrid](https://sendgrid.com) | Free | 100 / day | Transactional email API with good library support and a matching Marketing email offering
 [Mailgun](https://www.mailgun.com/) | Free | 10k emails / month, 100 email address validation / month | Transactional email API with an email validation sister API
 
-### SaaS
-
 ### Graphics and UX
 Name | Pricing | Limits | Summary | 
 ------------ | ------------- | ------------- | -------------
@@ -74,8 +79,6 @@ Name | Pricing | Limits | Summary |
 [Read the Docs](https://readthedocs.org/) | Free | Open Source projects only, no private documentation, ad supported | Automatic CI/CD for documentation hosted for free by Read the Docs
 [GitBook](https://www.gitbook.com/) | Free | 2 Users, 1 Public space, 1 Private space | Git-enabled documentation editor that makes it easy for non-developers to contribute
 [Azure Functions OpenAPI / Swagger](https://docs.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition) | Free except Azure Functions pricing | No Limits | Serverless hosting of API endpoint documentation using the popular OpenAPI / Swagger format
-
-### Frameworks
 
 ### Metrics and Logging
 Name | Pricing | Limits | Summary | 
@@ -91,6 +94,9 @@ Name | Pricing | Limits | Summary |
 ------------ | ------------- | ------------- | -------------
 [Azure Pipelines](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/) | Free | 1 Hosted agent (1800 build minutes / month), 1 Self-Hosted agent | A CI / CD chain that comes as part of Azure Devops
 [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) | Free | 50 build minutes / month | Docker-based CI / CD by Atlassian
+
+### SaaS
+
 
 ## Hosting
 
