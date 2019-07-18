@@ -96,7 +96,12 @@ Name | Pricing | Limits | Summary |
 [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) | Free | 50 build minutes / month | Docker-based CI / CD by Atlassian
 
 ### SaaS
-
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
+[Azure Search](https://azure.microsoft.com/en-us/services/search/) | Free | 50 MB, 3 indexes | AI-Powered search index that integrates easily with SQL and Azure Table Stoarge
+[Azure Playfab](https://playfab.com/) | Free | [No professional features](https://playfab.com/pricing/#desktop-pricing_details_professional) | Multiplayer game services in a box, incuding profiles, commerce, and leaderboards
+[Microsoft Flow](https://flow.microsoft.com/en-us/) | Free | No Limits | A code-free logic flow creator that connects to popular sources so that you can create flows such as "send me an email when a new mailchimp member signs up for my site"
+[Moosetracks](https://moosetracks.app) | Free | 1k requests / month | API debugger by Iron Moose Development that collects API calls from your app / service for easy visualization and built-in issue analysis
 
 ## Hosting
 
