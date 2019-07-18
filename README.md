@@ -148,6 +148,7 @@ Name | Pricing | Limits | Summary |
 [Mailchimp](https://mailchimp.com) | Free | 7 channels, basic templates, 2k contacts | Marketing email platform with easy email designer, 1 click automations, and landing page creator
 [Ghost](https://ghost.org/) | Self Host | No Limits | A popular open source publishing platform for blogs and journals
 [Landbot](https://landbot.io/) | Free | 100 chats / month, 30 logic blocks, basic integrations | A chatbot bot driven landing page that directs users through to what they want to know
+[GitPitch](https://gitpitch.com) | Free | Public repos only, no exporting | A git-enabled markdown-powered presentation tool
 
 ### Finances
 Name | Pricing | Limits | Summary | 
