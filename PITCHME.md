@@ -820,3 +820,157 @@ Just livin' in the database, WOOOOAAHHHHH
 @snap[south-east span-50]
 @box[bg-orange text-white](Limits#3GB / day, 3 days retention, 50 users, no alerts)
 @snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### CI / CD
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Pipelines
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A CI / CD chain that comes as part of Azure Devops))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#@size[.5em](1 Hosted agent @ 1800 build minutes / month, 1 Self-Hosted agent))
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Bitbucket Pipelines
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#Docker-based CI / CD by Atlassian)
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#50 build minutes / month)
+@snapend
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+
+### SaaS
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Search
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](AI-Powered search index that integrates easily with SQL and Azure Table Stoarge))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#50 MB, 3 indexes)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Playfab
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Multiplayer game services in a box, incuding profiles, commerce, and leaderboards))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No professional features)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Microsoft Flow
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A code-free logic flow creator that connects to popular sources))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Moosetracks
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.4em](API debugger by Iron Moose Development that collects API calls from your app / service for easy visualization and built-in issue analysis))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1k requests / month)
+@snapend
