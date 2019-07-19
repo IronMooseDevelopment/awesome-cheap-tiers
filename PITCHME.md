@@ -1,6 +1,6 @@
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-# Bringing your ideas to life quickly and cheaply
+## Bringing your ideas to life quickly and cheaply
 
 Note:
 
