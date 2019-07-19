@@ -1,4 +1,55 @@
+eager-loading : true
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
 # Bringing your ideas to life quickly and cheaply
+
+Note:
+
+- You probably have an idea you would like to work on
+- You'll learn what resources and tools are available to you to make that idea happen
+- You'll learn how to make your idea survive the Reddit hug of death without breaking the bank
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+## Who am I?
+
+Note:
+
+- CEO of Iron Moose
+- Developer for over 6 years
+- C#, NLP, Bots, Automation
+- Active member of open source
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+## Why build quick and cheap?
+
+Note:
+
+- Three resources: Time, Money, Energy
+- There are only 24 hours in a day and a person has limited energy to work on something
+- Big companies can scale up energy by hiring more people but there's still only 24 hours in a day so they favor spending money to reduce total time needed
+- Side projects have infinite time - you have no due date - but limited funds and energy
+- "Quick" focuses less on calendar time and more on energy needed to complete something
+
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+## Why build auto-scalable?
+
+Note:
+
+- A majority of the time your service will go unused (sleeping, low user counts, daily jobs)
+- Scaling down to 0 saves money
+- A sudden surge of traffic (Reddit viral) will overload a cheap server
+- Scaling up to Infinite lets your service survive
+- Letting service providers scale up / down your code for you based on demand is called "serverless"
+- Virality is the cheapest marketing
+- Icon for scalability (green / red)
+
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -6,13 +57,18 @@
 
 Measure twice, build once, deploy continuously
 
+
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Organizing Ideas and Work
 
 You have ideas, write them down
 
+Note:
 
+- Kanban vs Sprint
+- Sprints are good when you have a product owner / client you need to show steady progress to OR if you can commit to a release at the end of every sprint and have predictable hours
+- Kanban is good when you just have a pile of work to steadily work through and varied hours-per-week
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -141,7 +197,9 @@ You have ideas, write them down
 
 Hurray for collaboration!
 
+Note:
 
+- IM, VC, Screen Share, File Sharing
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -218,6 +276,7 @@ Hurray for collaboration!
 
 ## Building
 
+Make sure you have the right tools for the job
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -361,7 +420,11 @@ Open source mobile-first web UI framework
 Can't accidentally leak your user's logins if you don't store your user's logins
 ![Rollsafe](http://static2.businessinsider.com/image/5a3350b9ec1ade11615e68cf-1200/the-roll-safe-meme-was-a-funny-way-of-giving-bad-advice.jpg)
 
+Note:
 
+- OAuth and why it's nice
+- Why you should offer user-password logins as well
+- Security is *hard*
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -391,8 +454,14 @@ Can't accidentally leak your user's logins if you don't store your user's logins
 
 ### Databases
 
-Just livin' in the database, WOOOOAAHHHHH
+Store data. Serve it back up later. Don't leave this with default credentials.
 
+Note:
+
+- A few types of DBs
+- Schema-based (SQL)
+- Schema-less (noSQL, Document DB, Key-Value DB)
+- Schema-less is faster for development but harder to optimize for performance
 
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -495,6 +564,13 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Email
 
+Still a great way to reach people
+
+Note:
+
+- Transactional is based on user actions - signing up, buying an item, getting an invite to a new group, etc
+- Marketing is based on a mail list - All signed up users get your weekly newsletters, etc
+- It's surprisingly hard to keep these two kinds of email in sync with each other
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -547,7 +623,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Graphics and UX
 
-
+The best app in the world is useless if no one can interact with it
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -600,7 +676,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Documentation
 
-
+Answer your user's questions ahead of time instead of at 3am
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -701,7 +777,13 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Metrics and Logging
 
+If debugging is an art, then Metrics and Logs are your paintbrushes
 
+Note:
+
+- Metrics are counts of how many times something happened
+- Logs are details of what happened and why
+- Logs can either be single-line "tail" logs or json-based "structured" logs
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -802,7 +884,7 @@ Just livin' in the database, WOOOOAAHHHHH
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Loggly
+### Logz.Io
 @snapend
 
 @snap[south-west span-20]
@@ -826,7 +908,12 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### CI / CD
 
+Building and deploying code is for bots, not humans
 
+Note:
+
+- Hosted agents are managed by the service and usually don't cache dependencies
+- Self-hosted agents are managed by you but have performance and privacy gains
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -879,7 +966,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### SaaS
 
-
+Other things that might help you along your way
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -980,12 +1067,13 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ## Hosting
 
+Because you can't show people your cool project on your laptop forever
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### IaaS
 
-
+Full environments where you have near-complete control
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1062,7 +1150,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### PaaS
 
-
+Takes the underlying OS out of the equation so you can just focus on your App
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1140,7 +1228,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### FaaS
 
-
+Takes the underlying App out of the equation so you can just focus on your functionality
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1193,7 +1281,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Static Sites
 
-
+Advertise your service and explain how to use it
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1270,12 +1358,18 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ## Scaling Up
 
+For when you have more than 10 users
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Status Pages
 
+Let people know that your service is down
 
+Notes:
+
+- This helps build trust
+- You can point to the 99% uptime you normally have
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1328,7 +1422,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Marketing
 
-
+Let people know you exist
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1453,7 +1547,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Finances
 
-
+Pay people money
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1482,7 +1576,12 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Invoicing and Subscriptions
 
+Get paid
 
+Notes:
+
+- Invoices are for active work completed (one time or recurring)
+- Subscriptions are passive for work provided
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1535,7 +1634,7 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Support
 
-
+End-users will always need help
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1564,7 +1663,11 @@ Just livin' in the database, WOOOOAAHHHHH
 
 ### Legal Compliance
 
+The not-fun part that helps you not get sued
 
+Notes:
+
+- You should probably form an LLC - $50 through a provider or cheaper through the state gov
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
