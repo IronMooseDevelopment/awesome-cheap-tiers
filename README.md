@@ -162,6 +162,8 @@ Name | Pricing | Limits | Summary |
 [Chargebee](https://www.chargebee.com) | Free | First USD $50k revenue | Subscriptions-as-a-service offering that allows users to manage their credit cards and subscriptions in a hosted page. Has coupon and free-trial features built-in.
 
 ### Support
+Name | Pricing | Limits | Summary | 
+------------ | ------------- | ------------- | -------------
 [Purechat](https://purechat.com) | Free | Unlimited chat, 3 Users, 1 website | Livechat support chatbot that falls back to email if no one is online to answer a question
 
 ### Legal Compliance
