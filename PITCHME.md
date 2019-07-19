@@ -16,7 +16,7 @@ Note:
 Note:
 
 - CEO of Iron Moose
-- Developer for over 6 years
+- Developer for over 11 years, professionally for 6
 - C#, NLP, Bots, Automation
 - Active member of open source
 
