@@ -28,7 +28,7 @@ Name | Pricing | Limits | Summary |
 ------------ | ------------- | ------------- | -------------
 [Slack](https://slack.com) | Free | 10k Message history, 10 apps, no group calls | An extremely popular IM platform with a large collection of bots and apps that help customize your chat to your workflow 
 [Microsoft Teams](https://products.office.com/en-us/microsoft-teams) | Free | 300 Users, 2GB storage / user, no 2FA | Microsoft's IM offering with tight Office integration and a growing app marketplace
-[Discord](https://discordapp.com) | Free | 8MB File Upload, 720p screen share | An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or messagee history. Development / Work focused apps are lacking but are slowly being added
+[Discord](https://discordapp.com) | Free | 8MB File Upload, 720p screen share | An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or message history. Development / Work focused apps are lacking but are slowly being added
 
 ## Building
 
@@ -41,7 +41,7 @@ Name | Pricing | Limits | Summary |
 [Gitlab](https://about.gitlab.com/) | Free | Unlimited private repos and developers, no merge approvals | A private Git repo that comes with integrated issue tracking and chatops
 
 ### Frameworks
-Name | | Summary | 
+Name | Summary | 
 ------------ | -------------
 [Xamarin](https://visualstudio.microsoft.com/xamarin/) | Open source C# framework for apps that compiles to native Android, iOS, Mac, and UWP with maximal codesharing
 [Blazor](https://github.com/aspnet/Blazor) | Open source C# framework for websites that compiles to webassembly
