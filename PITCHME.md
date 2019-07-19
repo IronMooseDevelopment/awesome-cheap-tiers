@@ -974,3 +974,664 @@ Just livin' in the database, WOOOOAAHHHHH
 @snap[south-east span-50]
 @box[bg-orange text-white](Limits#1k requests / month)
 @snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+## Hosting
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### IaaS
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Digital Ocean
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Developer-focused VM provider with easy DNS setup and one-click-deploy options))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#$5 / month)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1GB RAM, 25GB SSD)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Linux VMs
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Azure VM that can temporarily burst to handle higher loads))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#$0.0075 / hr)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1GB RAM)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Windows VMs
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Azure VM that can temporarily burst to handle higher loads))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#$0.008 / hr)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1GB RAM)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### PaaS
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure App Service (Free)
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Host your site / service straight out of Visual Studio for free on shared infrastructure))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1GB RAM, 1GB Storage, 60 minutes / day)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure App Service (Shared)
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Host your site / service straight out of Visual Studio for free on shared infrastructure))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#$0.013 / hr)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1GB RAM, 1GB Storage, 240 minutes / day)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure App Service (Basic)
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Host your site / service straight out of Visual Studio for free on shared infrastructure))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#$0.075 / hr)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1.75GB RAM, 10GB Storage)
+@snapend
+
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### FaaS
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Functions
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Azure hosted functions that spin up on the fly based on http / timer / queue messages))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1 million executions, 400,000 GB-s)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Iron Functions
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[gray](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A Docker image that manages running FaaS on your own infrastructure. Supports directly importing AWS Lambdas))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Self-Hosted)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Static Sites
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Netlify
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A popular globablly-distributed static site host that has built-in CI / CD))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1 User, 1 Concurrent Build)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Github Pages
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A Github hosted static site solution - just push and host. Great for project readmes))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1 per Account / Org, 1 per Project, Non-Commercial)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Azure Storage Static Site
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Blob stored Azure distributed static site hosting))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free except Azure Storage Pricing)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+## Scaling Up
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Status Pages
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Freshstatus
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Status page provided as an offering from the Freshworks suite))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#Up to 250 subscribers, no scheduled reports)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Cachet
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Open source Status page with multi-language and planned downtime features))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Self-Hosted)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Marketing
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Sendgrid
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Marketing email platform with email designer and analytics, with a matching Transactional email offering))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#2k contacts, 6k emails / month, 1 user)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Mailchimp
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Marketing email platform with easy email designer, 1 click automations, and landing page creator))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#7 channels, basic templates, 2k contacts)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Ghost
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[red](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A popular open source publishing platform for blogs and journals))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Self-Hosted)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Landbot
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A chatbot bot driven landing page that directs users through to what they want to know))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#100 chats / month, 30 logic blocks, basic integrations)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### GitPitch
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](A git-enabled markdown-powered presentation tool))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#Public repos only, no exporting)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Finances
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Waveapps
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Invoicing software with a payroll option for both employees and contractors))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#@size[.5em](Free for accounting / invoicing / receipts, $20 / month + $4 / person for payroll))
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Invoicing and Subscriptions
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Invoicely
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Estimate and Invoicing tool designed for the web, hosted by ApiLayer))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1 User, PayPal only, no Recurring)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Chargebee
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.4em](Subscriptions-as-a-service offering that allows users to manage their credit cards and subscriptions in a hosted page.))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#First USD $50k revenue)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Support
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Purechat
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Livechat support that falls back to email if no one is online to answer a question))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#Unlimited chat, 3 Users, 1 website)
+@snapend
+
+
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+### Legal Compliance
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Termly
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Automatic generator and hoster of Terms of Conditions and Privacy Policy documents))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#1 Policy)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Cookie Consent
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.5em](Open source Cookie Consent banners provided by Osano))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#No Limits)
+@snapend
+
+
+
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
+
+@snap[west span-40 text-center]
+### Eversign
+@snapend
+
+@snap[south-west span-20]
+@size[1.5em](@color[green](@fa[line-chart]))
+@snapend
+
+@snap[north-east span-50]
+@box[bg-purple text-white](Summary#@size[.4em](Legally-binding eSignature platform with Google Drive template importing features hosted by ApiLayer))
+@snapend
+
+@snap[east span-50]
+@box[bg-green text-white](Price#Free)
+@snapend
+
+@snap[south-east span-50]
+@box[bg-orange text-white](Limits#5 documents / month, 1 user)
+@snapend
