@@ -1,12 +1,12 @@
 # Bringing your ideas to life quickly and cheaply
 
----
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ## Planning
 
 Measure twice, build once, deploy continuously
 
----
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Organizing Ideas and Work
 
@@ -135,7 +135,7 @@ You have ideas, write them down
 
 
 
----
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Team Chat
 
@@ -214,12 +214,12 @@ Hurray for collaboration!
 @snapend
 
 
----
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ## Building
 
 
----
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Code Repos
 
@@ -322,7 +322,7 @@ Because CTRL-S isn't quite enough at times
 @snapend
 
 
----
+---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Frameworks
 
