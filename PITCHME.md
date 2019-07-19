@@ -1223,7 +1223,9 @@ Takes the underlying OS out of the equation so you can just focus on your App
 @box[bg-orange text-white](Limits#1.75GB RAM, 10GB Storage)
 @snapend
 
+Note:
 
+- First tier that offers auto-scale features based on configurable criteria - not quite full serverless however
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1277,6 +1279,9 @@ Takes the underlying App out of the equation so you can just focus on your funct
 @box[bg-orange text-white](Limits#No Limits)
 @snapend
 
+Note:
+
+- The functions inside auto-scale, but the host does not
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1367,7 +1372,7 @@ For when you have more than 10 users
 
 Let people know that your service is down
 
-Notes:
+Note:
 
 - This helps build trust
 - You can point to the 99% uptime you normally have
