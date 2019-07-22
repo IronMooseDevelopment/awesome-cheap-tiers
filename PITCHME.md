@@ -19,8 +19,8 @@ Note:
 
 - CEO of Iron Moose
 - Developer for over 11 years, professionally for 6
-- C#, NLP, Bots, Automation
-- Active member of open source
+- C#, NLP, Bots, Automation, Active member of open source
+- We run our company on less than $25 / month and have a product
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -49,7 +49,7 @@ Note:
 - Scaling up to Infinite lets your service survive
 - Letting service providers scale up / down your code for you based on demand is called "serverless"
 - Virality is the cheapest marketing
-- Icon for scalability (green / red)
+- Scalability indicator
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -57,6 +57,7 @@ Note:
 ## Planning
 
 Measure twice, build once, deploy continuously
+
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -71,11 +72,16 @@ Note:
 - Sprints are good when you have a product owner / client you need to show steady progress to OR if you can commit to a release at the end of every sprint and have predictable hours
 - Kanban is good when you just have a pile of work to steadily work through and varied hours-per-week
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Trello
-![Trello Logo](http://www.linkbcit.ca/wp-content/uploads/2015/10/logo-trello.jpg)
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-45 text-center text-black]
+![Azure Boards](images/azure_boards_logo.png)
+@size[.7em](@fa[quote-left](A scrum / kanban board that comes as part of Azure Devops))
+
+@box[bg-purple text-white](Free#Up to 5 Developers, unlimited Stakeholders)
+
 @snapend
 
 @snap[south-west span-20]
@@ -83,47 +89,26 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#A configurable kanban-style board)
+![](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/0059bc84-b75f-4129-b09b-dd1a64944a9e.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
+@snap[south-east span-40 text-center]
+#### Alternatives
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1 Power-Up, 10MB max, 10 team boards)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Boards
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A scrum / kanban board that comes as part of Azure Devops))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Up to 5 Developers, unlimited Stakeholders)
+@box[bg-blue text-white text-05](Trello#Free - 1 Power-Up, 10MB max, 10 team boards)
+@box[bg-blue text-white text-05](Github Project Boards#Free - Up to 3 developers for private repo)
 @snapend
 
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
 
-@snap[west span-40 text-center]
-### Onenote
+@snap[west span-45 text-center text-black]
+![0nenote](https://i0.wp.com/mykidslocker.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-17-at-8.54.11-PM.png?resize=150%2C150)
+@size[.7em](@fa[quote-left](Microsoft's notekeeping app, part of Office))
+
+@box[bg-purple text-white](Free#Up to 5 GB)
+
 @snapend
 
 @snap[south-west span-20]
@@ -131,64 +116,16 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#Microsoft's notekeeping app, part of Office)
+![](https://www.onenotegem.com/uploads/8/5/1/8/8518752/main_2_orig.jpg)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Evernote#Free - Unlimited notes, no team features)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Up to 5 GB)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Evernote
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#Notekeeping app with organization features)
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Unlimited notes, no team features)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Github Project Boards
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Kanban-style cross-repo board hosted by Github and included with every Github repo))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
-@snapend
 
 
 
@@ -202,10 +139,17 @@ Note:
 
 - IM, VC, Screen Share, File Sharing
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Slack
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Discord](https://img.wennermedia.com/article-leads-horizontal/discord-logo-685bbc5f-8221-4a45-b809-4dc5e38c22fc.png)
+@size[.5em](@fa[quote-left](An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or message history.))
+
+@box[bg-purple text-white](Free#8MB File Upload, 720p screen share)
+
 @snapend
 
 @snap[south-west span-20]
@@ -213,64 +157,17 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.4em](An extremely popular IM platform with a large collection of bots and apps that help customize your chat to your workflow))
+![](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*W3JjjfzTJOL9V9TvDU1MFA.gif&f=1)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Slack#Free - 10k Message history, 10 apps, no group calls)
+@box[bg-blue text-white text-05](Microsoft Teams#Free - 100 Users, 2GB storage / user, no 2FA)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#10k Message history, 10 apps, no group calls)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Microsoft Teams
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Microsoft's IM offering with tight Office integration and a growing app marketplace))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#300 Users, 2GB storage / user, no 2FA)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Discord
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.3em](An IM option aimed at gamers, Discord offers excellent channel organization options with no limits to voice channels, screen sharing, or message history.))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#8MB File Upload, 720p screen share)
-@snapend
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
