@@ -906,43 +906,22 @@ For when you have more than 10 users
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
+
 ### Status Pages
 
-Let people know that your service is down
-
-Note:
-
-- This helps build trust
-- You can point to the 99% uptime you normally have
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Freshstatus
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Status page provided as an offering from the Freshworks suite))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Up to 250 subscribers, no scheduled reports)
-@snapend
+Let people know you are down so they come back when you are up
 
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Cachet
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Cachet](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.brandeps.com%2Flogo-download%2FC%2FCachet-01.png&f=1)
+@size[.5em](@fa[quote-left](Open source Status page with multi-language and planned downtime features))
+
+@box[bg-purple text-white](Self-Hosted#No Limits)
+
 @snapend
 
 @snap[south-west span-20]
@@ -950,16 +929,16 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Open source Status page with multi-language and planned downtime features))
+![](https://blog.5apps.com/images/screenshot-cachet.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Self-Hosted)
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Freshstatus#Free - Up to 250 subscribers, no scheduled reports)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
-@snapend
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -968,10 +947,16 @@ Note:
 
 Let people know you exist
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Sendgrid
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Mailchimp](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stickpng.com%2Fassets%2Fimages%2F58417f77a6515b1e0ad75a2c.png&f=1)
+@size[.5em](@fa[quote-left](Marketing email platform with easy email designer and landing page creator))
+
+@box[bg-purple text-white](Free#@size[.6em](7 channels, basic templates, 2k contacts))
+
 @snapend
 
 @snap[south-west span-20]
@@ -979,47 +964,22 @@ Let people know you exist
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Marketing email platform with email designer and analytics, with a matching Transactional email offering))
+![](https://cdn0.capterra-static.com/screenshots/2073942/44314.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
+@snap[south-east span-40 text-center]
+#### Alternatives
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#2k contacts, 6k emails / month, 1 user)
-@snapend
+@box[bg-blue text-white text-05](Sendgrid#Free - 2k contacts, 6k emails / month, 1 user)
 
+@snapend
 
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Mailchimp
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Marketing email platform with easy email designer, 1 click automations, and landing page creator))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#7 channels, basic templates, 2k contacts)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Ghost
+![Ghost](https://www.citycloud.com/wp-content/uploads/2013/10/ghost_logo_big.png)
+![](http://2.bp.blogspot.com/-8qYtJKgfCjE/Uk7R400w_wI/AAAAAAAAAws/oXh5Clw5ynU/s1600/ghost-admin.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1043,7 +1003,8 @@ Let people know you exist
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Landbot
+#### Landbot
+![](https://wp-handpicked.com/wp-content/uploads/2018/08/landbot.jpg)
 @snapend
 
 @snap[south-west span-20]
@@ -1067,7 +1028,7 @@ Let people know you exist
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### GitPitch
+![GitPitch](https://gitpitch.com/docs/images/logo.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1096,7 +1057,8 @@ Pay people money
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Waveapps
+![Waveapps](https://www.waveapps.com/sitestatic/public/img/wave-media-logo-2.png)
+![](http://fbalibrary.com/wp-content/uploads/2017/06/WaveApps-Featured-1-1.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1122,7 +1084,7 @@ Pay people money
 
 Get paid
 
-Notes:
+Note:
 
 - Invoices are for active work completed (one time or recurring)
 - Subscriptions are passive for work provided
@@ -1130,7 +1092,8 @@ Notes:
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Invoicely
+![Invoicely](https://assets.pcmag.com/media/images/490874-invoicely-logo.jpg?width=810&height=456)
+![](https://designshack.net/wp-content/uploads/feature-invoicing.jpg)
 @snapend
 
 @snap[south-west span-20]
@@ -1154,7 +1117,8 @@ Notes:
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Chargebee
+![Chargebee](http://www.iamwire.com/wp-content/uploads/2014/01/Chargebee.png)
+![](https://cdn0.capterra-static.com/screenshots/2092486/32447.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1183,7 +1147,8 @@ End-users will always need help
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Purechat
+![](https://www.purechat.com/img/index/pc-whitebg-logo.adec9123.png)
+![](https://s17528.pcdn.co/wp-content/uploads/2015/07/Pure-Chat-example-conversation.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1209,14 +1174,15 @@ End-users will always need help
 
 The not-fun part that helps you not get sued
 
-Notes:
+Note:
 
 - You should probably form an LLC - $50 through a provider or cheaper through the state gov
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Termly
+![Termly](https://termly.io/wp-content/themes/genesis-tly-v3/build/images/logo-dark.svg)
+![](https://termly.io/wp-content/uploads/2018/11/step01-1060x466.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1240,7 +1206,8 @@ Notes:
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Cookie Consent
+![Cookie Consent](https://cookieconsent.osano.com/assets/images/logo__cookie-consent.png)
+![](https://cookieconsent.osano.com/app/uploads/2016/07/img__about-cookie-consent-1-1-1024x588.png)
 @snapend
 
 @snap[south-west span-20]
@@ -1259,12 +1226,15 @@ Notes:
 @box[bg-orange text-white](Limits#No Limits)
 @snapend
 
+Note:
 
+- Customizable
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Eversign
+![Eversign](https://designshack.net/wp-content/uploads/eversign-logo.png)
+![](https://smallbiztrends.com/wp-content/uploads/2017/04/eversign-review-850x476.png)
 @snapend
 
 @snap[south-west span-20]
