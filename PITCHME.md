@@ -184,10 +184,18 @@ Because CTRL-S isn't quite enough at times
 
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Azure Repos
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+#### Azure Repos
+![Azure Repos](https://ms-vsts.gallerycdn.vsassets.io/extensions/ms-vsts/team/1.149.2/1551279954328/Microsoft.VisualStudio.Services.Icons.Default)
+@size[.5em](@fa[quote-left](A Git repo that comes as part of Azure Devops))
+
+@box[bg-purple text-white](Free#@size[.7em](Unlimited public and private repos, up to 5 developers))
+
 @snapend
 
 @snap[south-west span-20]
@@ -195,87 +203,15 @@ Because CTRL-S isn't quite enough at times
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#A Git repo that comes as part of Azure Devops)
+![](https://www.dotnetcurry.com/images/devops/vsts-azure-devops/azure-repos.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
+@snap[south-east span-40 text-center]
+#### Alternatives
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Unlimited public and private repos, up to 5 developers)
-@snapend
+@box[bg-blue text-white text-05](Github#Free - Unlimited public and private repos, up to 3 developers)
+@box[bg-blue text-white text-05](Gitlab#Free - Unlimited private repos and developers, no merge approvals)
 
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Github
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](The definitive place for open source, comes with integrated issue tracking and basic project management))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Unlimited public and private repos, up to 3 developers)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Bitbucket
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#A Git repo that is part of the Atlassian suite)
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Unlimited private repos, up to 5 developers)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Gitlab
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A private Git repo that comes with integrated issue tracking and chatops))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](Unlimited private repos and developers, no merge approvals))
 @snapend
 
 
@@ -303,14 +239,6 @@ Open source C# framework for websites that compiles to webassembly
 
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-### Bootstrap
-
-Open source mobile-first web UI framework
-
-
-
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### Authentication
@@ -324,10 +252,20 @@ Note:
 - Why you should offer user-password logins as well
 - Security is *hard*
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Auth0
+
+
+
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Auth0](https://images.ctfassets.net/2ntc334xpx65/40dfJ4MoDmkkOuO2qakkGG/34f994d35925dd81be615e82a2544b3d/Logo_2x.png)
+@size[.5em](@fa[quote-left](Wraps OAuth options into one management layer for easy integration.))
+
+@box[bg-purple text-white](Free#7000 active users, 2 social providers)
+
 @snapend
 
 @snap[south-west span-20]
@@ -335,16 +273,13 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.3em](Wraps OAuth options into one management layer for easy integration. Manages social & username-password logins for you, and allows customization with serverless rules))
+![](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/02/1454698917angular-auth-1.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](7000 active users, 2 social providers))
-@snapend
+Note:
+
+- Manages social & username-password logins for you, and allows customization with serverless rules
 
 
 
@@ -362,10 +297,18 @@ Note:
 - Schema-less is faster for development but harder to optimize for performance
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Azure Table Storage
+
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Azure Table Storage](https://datadog-docs.imgix.net/images/integrations_logos/azure_storage-7ee8b362.png)
+@size[.5em](@fa[quote-left](A Key-Value database that scales automatically and stores your data globally))
+
+@box[bg-purple text-white]($0.045 / GB / Month#No Limits))
+
 @snapend
 
 @snap[south-west span-20]
@@ -373,88 +316,20 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A Key-Value database that scales automatically and stores your data globally))
+![](https://sec.ch9.ms/ch9/fb08/bffcf8dc-f626-4bc0-aaf8-c1853c59fb08/CustomizeTableColumnsInMicrosoftAzureStorageExplo_960.jpg)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#@size[.5em]($0.045 / GB / Month, $0.00036 per 10,000 transactions))
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Azure Blob Storage#@size[.7em]($0.0184 / GB / Month, various read / write prices - Prices increase after 50 TB / month))
+@box[bg-blue text-white text-05](mLab#Free - 0.5 GB storage)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
-@snapend
+Note:
 
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Blob Storage
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A No-SQL database that scales automatically and stores your data globally. Has various archive options.))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#@size[.5em]($0.0184 / GB / Month, various read / write prices))
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#Prices increase after 50 TB / month)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Serverless SQL
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A fully-featured SQL database that auto-scales in response to demand and only charges you for your use))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#$0.2609 / core / hr)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#4 cores, 12 GB RAM)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### mLab
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A sandbox instance of MongoDB hosted and supported by MongoDB Inc))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#0.5 GB storage)
-@snapend
+- Azure Serverless SQL
 
 
 
@@ -470,10 +345,16 @@ Note:
 - Marketing is based on a mail list - All signed up users get your weekly newsletters, etc
 - It's surprisingly hard to keep these two kinds of email in sync with each other
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Sendgrid
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Sendgrid](https://sendgrid.com/wp-content/uploads/2016/06/SG_Logo_Blog.jpg)
+@size[.5em](@fa[quote-left](Transactional email API with good library support and a matching Marketing email offering))
+
+@box[bg-purple text-white](Free#100 emails / day)
+
 @snapend
 
 @snap[south-west span-20]
@@ -481,39 +362,14 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.4em](Transactional email API with good library support and a matching Marketing email offering))
+![](https://www.ventureharbour.com/wp-content/uploads/2014/04/sendgrid-analytics.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
+@snap[south-east span-40 text-center]
+#### Alternatives
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#100 / day)
-@snapend
+@box[bg-blue text-white text-05](Mailgun#Free - Transactional email API with an email validation sister API)
 
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Mailgun
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#Transactional email API with an email validation sister API)
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](10k emails / month, 100 email address validation / month))
 @snapend
 
 
@@ -523,51 +379,49 @@ Note:
 
 The best app in the world is useless if no one can interact with it
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Fiverr
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Fiver](http://thetravelingdutchman.com/wp-content/upload_folders/thetravelingdutchman.com/2016/03/Fiverr.jpg)
+@size[.5em](@fa[quote-left](An online marketplace of freelancers providing various services such as graphical and UX design))
+
+@box[bg-purple text-white]($5 and up / design#No Limits)
+
 @snapend
 
 @snap[south-west span-20]
 @size[1.5em](@color[green](@fa[line-chart]))
 @snapend
 
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](An online marketplace of freelancers providing various services such as graphical and UX design))
-@snapend
-
 @snap[east span-50]
-@box[bg-green text-white](Price#$5 and up / design)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
+![](https://cdn.lifehack.org/wp-content/uploads/2014/01/fiverr-1024x526.png)
 @snapend
 
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Figma
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Figma](https://i0.wp.com/wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png?ssl=1)
+@size[.5em](@fa[quote-left](A browser-based UX tool with easy collaboration and code-exporting for styles))
+
+@box[bg-purple text-white](Free#2 team members, 3 projects, 30 days version history)
+
 @snapend
 
 @snap[south-west span-20]
 @size[1.5em](@color[green](@fa[line-chart]))
 @snapend
 
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A browser-based UX tool with easy collaboration and code-exporting for styles))
-@snapend
-
 @snap[east span-50]
-@box[bg-green text-white](Price#Free)
+![](http://www.bestetools.com/wp-content/uploads/2018/03/FIGMA.png)
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](2 members, 3 projects, 30 days version history))
-@snapend
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -576,10 +430,17 @@ The best app in the world is useless if no one can interact with it
 
 Answer your user's questions ahead of time instead of at 3am
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
 ### Github Wikis
+@size[.5em](@fa[quote-left](Markdown wiki hosted by Github and included with every Github repo))
+
+@box[bg-purple text-white](Free#3 Developers per private repo)
+
 @snapend
 
 @snap[south-west span-20]
@@ -587,87 +448,15 @@ Answer your user's questions ahead of time instead of at 3am
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Markdown wiki hosted by Github and included with every Github repo))
+![](https://raw.githubusercontent.com/bitmovin/github_wiki_index/master/index.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
+@snap[south-east span-40 text-center]
+#### Alternatives
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
-@snapend
+@box[bg-blue text-white text-05](Read the Docs#Free - Open Source projects only, no private documentation, ad supported)
+@box[bg-blue text-white text-05](GitBook#Free - 2 Users, 1 Public space, 1 Private space)
 
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Read the Docs
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Automatic CI/CD for documentation hosted for free by Read the Docs))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](Open Source projects only, no private documentation, ad supported))
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### GitBook
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Git-enabled documentation editor that makes it easy for non-developers to contribute))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](2 Users, 1 Public space, 1 Private space))
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Functions OpenAPI / Swagger
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Serverless hosting of API endpoint documentation using the popular OpenAPI / Swagger format))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free except Azure Functions pricing)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@No Limits)
 @snapend
 
 
@@ -685,8 +474,9 @@ Note:
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Azure Application Insights
+@snap[west span-45 text-center]
+#### Azure Application Insights
+![](https://docs.microsoft.com/en-us/azure/application-insights/media/app-insights-dashboards/010-oview.png)
 @snapend
 
 @snap[south-west span-20]
@@ -705,36 +495,17 @@ Note:
 @box[bg-orange text-white](Limits#5GB storage / month, 90 days retention)
 @snapend
 
+Note:
 
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Metrics
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Helps capture the exact number of times a certain thing occured in your app / API))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#150 MB / month)
-@snapend
+- Includes Metrics
 
 
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Papertrail
+@snap[west span-45 text-center]
+#### Papertrail
+![](https://papertrail.global.ssl.fastly.net/images/screenshots/search.png?1528999755)
 @snapend
 
 @snap[south-west span-20]
@@ -757,8 +528,9 @@ Note:
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Loggly
+@snap[west span-45 text-center]
+#### Loggly
+![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/492/684/492684-e939f89cc34a8b144279d933c3db862ab3f9def6.png?1426716161)
 @snapend
 
 @snap[south-west span-20]
@@ -779,29 +551,6 @@ Note:
 
 
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Logz.Io
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A hosted ELK stack with Grafana with filters for structured logs))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#3GB / day, 3 days retention, 50 users, no alerts)
-@snapend
-
-
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### CI / CD
@@ -813,10 +562,16 @@ Note:
 - Hosted agents are managed by the service and usually don't cache dependencies
 - Self-hosted agents are managed by you but have performance and privacy gains
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Azure Pipelines
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Azure Pipelines](https://chrisjarrintaylor.files.wordpress.com/2019/02/azure-pipelines.png?w=712)
+@size[.5em](@fa[quote-left](A CI / CD chain that comes as part of Azure Devops))
+
+@box[bg-purple text-white](Free#@size[.5em](1 Hosted agent @ 1800 build minutes / month, 1 Self-Hosted agent))
+
 @snapend
 
 @snap[south-west span-20]
@@ -824,40 +579,17 @@ Note:
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A CI / CD chain that comes as part of Azure Devops))
+![](http://ilikesqldata.com/wp-content/uploads/2018/09/azurecomcdn.azureedge.net7785b324-37ed-4035-981f-e-b6349c425c24c9fb7fd9ee3736d6ff807dc76c73.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Bitbucket Pipelines#Free - 50 build minutes / month)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#@size[.5em](1 Hosted agent @ 1800 build minutes / month, 1 Self-Hosted agent))
-@snapend
 
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Bitbucket Pipelines
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#Docker-based CI / CD by Atlassian)
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#50 build minutes / month)
-@snapend
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -869,7 +601,8 @@ Other things that might help you along your way
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Azure Search
+#### Azure Search
+![](https://www.microsoft.com/developerblog/wp-content/uploads/2016-12-10-Azure-Search-QNA/19.png)
 @snapend
 
 @snap[south-west span-20]
@@ -893,7 +626,8 @@ Other things that might help you along your way
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Azure Playfab
+#### Azure Playfab
+![](https://playfab.com/assets/img/add-ons/xsolla/xsolla-hero.png)
 @snapend
 
 @snap[south-west span-20]
@@ -917,7 +651,8 @@ Other things that might help you along your way
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Microsoft Flow
+#### Microsoft Flow
+![](https://mspoweruser.com/wp-content/uploads/2018/12/Microsoft-Flow-Beta-696x434.jpg)
 @snapend
 
 @snap[south-west span-20]
@@ -941,7 +676,8 @@ Other things that might help you along your way
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 @snap[west span-40 text-center]
-### Moosetracks
+#### Moosetracks
+![](https://moosetracks.app/assets/img/park.png)
 @snapend
 
 @snap[south-west span-20]
@@ -973,75 +709,38 @@ Because you can't show people your cool project on your laptop forever
 
 Full environments where you have near-complete control
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Digital Ocean
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Digital Ocean](https://venturebeat.com/wp-content/uploads/2017/06/digitalocean-logo.png?fit=1100%2C854&strip=all)
+@size[.5em](@fa[quote-left](Developer-focused VM provider with easy DNS setup and one-click-deploy options))
+
+@box[bg-purple text-white]($5 / Month#1GB RAM, 25GB SSD)
+
 @snapend
 
 @snap[south-west span-20]
-@size[1.5em](@color[red](@fa[line-chart]))
+@size[1.5em](@color[green](@fa[line-chart]))
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Developer-focused VM provider with easy DNS setup and one-click-deploy options))
+![](https://puppet.com/docs/pipelines-for-apps/free/images/NodeTutorial/digitalOceanSetUp.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#$5 / month)
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Azure Linux VMs#$0.0075 / hr - 1GB RAM)
+@box[bg-blue text-white text-05](Azure Windows VMs#$0.008 / hr - 1GB RAM)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1GB RAM, 25GB SSD)
-@snapend
+Note:
 
+- Azure VMs can temporarily burst to handle higher loads
 
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Linux VMs
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[red](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Azure VM that can temporarily burst to handle higher loads))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#$0.0075 / hr)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1GB RAM)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Windows VMs
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[red](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Azure VM that can temporarily burst to handle higher loads))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#$0.008 / hr)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1GB RAM)
-@snapend
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -1122,7 +821,7 @@ Takes the underlying OS out of the equation so you can just focus on your App
 
 Note:
 
-- First tier that offers auto-scale features based on configurable criteria - not quite full serverless however
+- First tier that offers auto-scale features based on configurable criteria: not quite full serverless however
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1130,10 +829,16 @@ Note:
 
 Takes the underlying App out of the equation so you can just focus on your functionality
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Azure Functions
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Azure Functions](http://taswar.zeytinsoft.com/wp-content/uploads/2017/12/MSAzure-functions.png)
+@size[.5em](@fa[quote-left](Azure hosted functions that spin up on the fly based on triggers))
+
+@box[bg-purple text-white](Free#@size[.7em](1 million executions))
+
 @snapend
 
 @snap[south-west span-20]
@@ -1141,44 +846,20 @@ Takes the underlying App out of the equation so you can just focus on your funct
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Azure hosted functions that spin up on the fly based on http / timer / queue messages))
+![](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.slidesharecdn.com%2Fintrotoazurefunctions-160504044340%2F95%2Fintroduction-to-azure-functions-tutorial-5-638.jpg%3Fcb%3D1470734076&f=1)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
+@snap[south-east span-40 text-center]
+#### Alternatives
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1 million executions, 400,000 GB-s)
-@snapend
+@box[bg-blue text-white text-05](Iron Functions#Self-Hosted)
 
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Iron Functions
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[gray](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A Docker image that manages running FaaS on your own infrastructure. Supports directly importing AWS Lambdas))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Self-Hosted)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
 @snapend
 
 Note:
 
-- The functions inside auto-scale, but the host does not
+- GBs = MB of RAM * CPU run time seconds
+
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -1186,10 +867,17 @@ Note:
 
 Advertise your service and explain how to use it
 
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-### Netlify
+
+
++++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
+
+@snap[west span-40 text-center text-black]
+![Github Pages](http://www.recursosweb.es/wp-content/uploads/2014/04/github-pages.jpg)
+@size[.5em](@fa[quote-left](A Github hosted static site solution - just push and host. Great for project readmes))
+
+@box[bg-purple text-white](Free#@size[.7em](1 per Account / Org, 1 per Project, Non-Commercial))
+
 @snapend
 
 @snap[south-west span-20]
@@ -1197,64 +885,17 @@ Advertise your service and explain how to use it
 @snapend
 
 @snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A popular globablly-distributed static site host that has built-in CI / CD))
+![](https://pages.github.com/images/choose-layout@2x.png)
 @snapend
 
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
+@snap[south-east span-40 text-center]
+#### Alternatives
+
+@box[bg-blue text-white text-05](Netlify#Free - 1 Developer, 1 Concurrent Build)
+@box[bg-blue text-white text-05](Azure Storage Static Site#Free except Azure Storage Pricing - No Limits)
+
 @snapend
 
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1 User, 1 Concurrent Build)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Github Pages
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](A Github hosted static site solution - just push and host. Great for project readmes))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#1 per Account / Org, 1 per Project, Non-Commercial)
-@snapend
-
-
-
-+++?color=linear-gradient(to top, #f3ab40, #f0d57d)
-
-@snap[west span-40 text-center]
-### Azure Storage Static Site
-@snapend
-
-@snap[south-west span-20]
-@size[1.5em](@color[green](@fa[line-chart]))
-@snapend
-
-@snap[north-east span-50]
-@box[bg-purple text-white](Summary#@size[.5em](Blob stored Azure distributed static site hosting))
-@snapend
-
-@snap[east span-50]
-@box[bg-green text-white](Price#Free except Azure Storage Pricing)
-@snapend
-
-@snap[south-east span-50]
-@box[bg-orange text-white](Limits#No Limits)
-@snapend
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
