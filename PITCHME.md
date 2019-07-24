@@ -23,6 +23,7 @@ Note:
 - C#, NLP, Bots, Automation, Active member of open source
 - We run our company on less than $25 / month and have a product
 - Gonna talk about the challenges we faced and lessons we learned when trying to build an always-up product (scale + maintainability)
+- Humblebundlebot
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -1285,3 +1286,16 @@ Note:
 @snap[south-east span-50]
 @box[bg-orange text-white](Limits#5 documents / month, 1 user)
 @snapend
+
+
+
+### In Conclusion
+![](https://blog.ironmoosedevelopment.com/content/images/2018/12/moose-head-harvest-small.png)
+
+https://github.com/IronMooseDevelopment/awesome-cheap-tiers
+
+Note:
+
+- You'ved learned what resources and tools are available to you to make your idea and survive the Reddit hug of death without breaking the bank
+- No resource can help you if you run out of steam and give up
+- Find some friends - it's more fun together
