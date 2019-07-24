@@ -1,6 +1,7 @@
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-## Bringing your ideas to life quickly and cheaply
+### Bringing your ideas to life quickly and cheaply
+![](https://blog.ironmoosedevelopment.com/content/images/2018/12/moose-head-harvest-small.png)
 
 https://github.com/IronMooseDevelopment/awesome-cheap-tiers
 
@@ -243,16 +244,13 @@ Open source C# framework for websites that compiles to webassembly
 
 ### Authentication
 
-Can't accidentally leak your user's logins if you don't store your user's logins
-![Rollsafe](http://static2.businessinsider.com/image/5a3350b9ec1ade11615e68cf-1200/the-roll-safe-meme-was-a-funny-way-of-giving-bad-advice.jpg)
+It's hard and necessary
 
 Note:
 
 - OAuth and why it's nice
 - Why you should offer user-password logins as well
 - Security is *hard*
-
-
 
 
 
