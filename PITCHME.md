@@ -675,9 +675,9 @@ Other things that might help you along your way
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-@snap[west span-40 text-center]
-#### Moosetracks
-![](https://moosetracks.app/assets/img/park.png)
+@snap[west span-45 text-center]
+![Moosetracks](https://moosetracks.app/assets/img/moosetracksslim.png)
+![](https://i.imgur.com/wkKqp4P.png)
 @snapend
 
 @snap[south-west span-20]
