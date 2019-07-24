@@ -677,7 +677,7 @@ Other things that might help you along your way
 
 @snap[west span-45 text-center]
 ![Moosetracks](https://moosetracks.app/assets/img/moosetracksslim.png)
-![](https://i.imgur.com/wkKqp4P.png)
+![](https://i.imgur.com/qXwAOaa.png)
 @snapend
 
 @snap[south-west span-20]
