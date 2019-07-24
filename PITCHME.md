@@ -1287,7 +1287,7 @@ Note:
 @box[bg-orange text-white](Limits#5 documents / month, 1 user)
 @snapend
 
-
++++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
 ### In Conclusion
 ![](https://blog.ironmoosedevelopment.com/content/images/2018/12/moose-head-harvest-small.png)
