@@ -18,10 +18,11 @@ Note:
 
 Note:
 
-- CEO of Iron Moose
+- CEO & Founder of Iron Moose
 - Developer for over 11 years, professionally for 6
 - C#, NLP, Bots, Automation, Active member of open source
 - We run our company on less than $25 / month and have a product
+- Gonna talk about the challenges we faced and lessons we learned when trying to build an always-up product (scale + maintainability)
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -32,6 +33,7 @@ Note:
 
 - Three resources: Time, Money, Energy
 - There are only 24 hours in a day and a person has limited energy to work on something
+- Energy vs Time - something can be easy but take forever (manually editting 1k files) vs hard but take little time (scripting it)
 - Big companies can scale up energy by hiring more people but there's still only 24 hours in a day so they favor spending money to reduce total time needed
 - Side projects have infinite time - you have no due date - but limited funds and energy
 - "Quick" focuses less on calendar time and more on energy needed to complete something
@@ -59,7 +61,11 @@ Note:
 
 Measure twice, build once, deploy continuously
 
+Note:
 
+- Why does it matter?
+- First step on any journey
+- Most things die at this stage or get forgotten
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -100,7 +106,10 @@ Note:
 @box[bg-blue text-white text-05](Github Project Boards#Free - Up to 3 developers for private repo)
 @snapend
 
+Note:
 
+- We take advantage of unlimited stakeholders to arrange ideas and non-development work
+- Configurable, we add "Tech debt", "research", and "blog posts" as item types
 
 +++?color=linear-gradient(85deg, #f2f2e2 50%, #f3ab40 50%)
 
@@ -127,7 +136,9 @@ Note:
 
 @snapend
 
+Note:
 
+- File doesn't need to be saved - persists through restarts for you
 
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -169,7 +180,11 @@ Note:
 
 @snapend
 
+Note:
 
+- Organization & Pinning resources helps fuel discoverability
+- Unlimited history is important for decision making
+- We already all had Discord for gaming, so people are logged in far more often and see messages
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -215,6 +230,13 @@ Because CTRL-S isn't quite enough at times
 
 @snapend
 
+Note:
+
+- Auto-merge pr when build passes
+- Integrates well - can track work across the entire stack
+- Well-built code viewer with essentially visual studio code
+
+
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -226,11 +248,18 @@ Baking bread is a lot faster with premade dough
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
-### Xamarin
+![](https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_w5dofghs/def_height/400/def_width/400/version/100012/type/1)
 
 Open source C# framework for apps that compiles to native Android, iOS, Mac, and UWP with maximal codesharing
 
+![](https://www.technovert.com/wp-content/uploads/Xamarin-1.png)
 
+
+Note:
+
+- Android, android auto, iOS, Mac Desktop, Windows Desktop, Xbox, Hololens, smart watches, smart tv's
+- Would support Linux if they could agree on a standard Window api
+- Experimental support for webassembly
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -238,7 +267,7 @@ Open source C# framework for apps that compiles to native Android, iOS, Mac, and
 
 Open source C# framework for websites that compiles to webassembly
 
-
+![](https://learn-blazor.com/images/getting-started/blazor-architecture.jpg)
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
@@ -293,7 +322,7 @@ Note:
 - Schema-based (SQL)
 - Schema-less (noSQL, Document DB, Key-Value DB)
 - Schema-less is faster for development but harder to optimize for performance
-
+- There's plenty of performant production instances of no-sql, it just takes a different approach to data modeling - one size does not fit all!
 
 
 
@@ -327,7 +356,8 @@ Note:
 
 Note:
 
-- Azure Serverless SQL
+- Various replication options offer increased global speeds for increased costs
+- Azure Serverless SQL exists
 
 
 
@@ -397,8 +427,11 @@ The best app in the world is useless if no one can interact with it
 ![](https://cdn.lifehack.org/wp-content/uploads/2014/01/fiverr-1024x526.png)
 @snapend
 
+Note:
 
-
+- We've got most of our graphics done through a single guy Noko
+- After initial back and fourth he was able to turn our ideas into excellent reality quickly
+- Loyalty helps get good results
 
 
 
@@ -496,7 +529,7 @@ Note:
 Note:
 
 - Includes Metrics
-
+- We use this to keep a pulse on how performant our services are and where users are getting stuck
 
 
 +++?color=linear-gradient(to top, #f3ab40, #f0d57d)
@@ -587,7 +620,9 @@ Note:
 
 @snapend
 
+Note:
 
+- Flexible templated CI / CD
 
 ---?color=linear-gradient(to top, #f3ab40, #f0d57d)
 
